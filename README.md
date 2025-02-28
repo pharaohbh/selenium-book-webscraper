@@ -7,7 +7,4 @@ A Python Selenium script that scrapes book titles & prices from [BooksToScrape](
 ✔ Runs in **headless mode** (no browser UI)  
 ✔ Saves data to `books_data.csv`  
 
-## 🛠 Installation  
-1. **Clone this repository**  
-   ```bash
--web-scraper
+
